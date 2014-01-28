@@ -37,20 +37,20 @@ p, li { white-space: pre-wrap; }
    <layer>
     <filename>kick_OH_P_1.wav</filename>
     <min>0</min>
-    <max>0.347826</max>
+    <max>0.33</max>
     <gain>1</gain>
     <pitch>0</pitch>
    </layer>
    <layer>
     <filename>kick_OH_F_1.wav</filename>
-    <min>0.347826</min>
-    <max>0.692029</max>
+    <min>0.330001</min>
+    <max>0.660000</max>
     <gain>1</gain>
     <pitch>0</pitch>
    </layer>
    <layer>
     <filename>kick_OH_FF_1.wav</filename>
-    <min>0.692029</min>
+    <min>0.660001</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
@@ -83,20 +83,20 @@ p, li { white-space: pre-wrap; }
    <layer>
     <filename>kick2_OH_P_1.wav</filename>
     <min>0</min>
-    <max>0.398551</max>
+    <max>0.330000</max>
     <gain>1</gain>
     <pitch>0</pitch>
    </layer>
    <layer>
     <filename>kick2_OH_F_1.wav</filename>
-    <min>0.398551</min>
-    <max>0.692029</max>
+    <min>0.330001</min>
+    <max>0.660000</max>
     <gain>1</gain>
     <pitch>0</pitch>
    </layer>
    <layer>
     <filename>kick2_OH_FF_1.wav</filename>
-    <min>0.692029</min>
+    <min>0.660001</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
